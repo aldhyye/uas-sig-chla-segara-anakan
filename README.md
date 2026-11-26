@@ -33,4 +33,6 @@ Tugas UAS Sistem Informasi Geografi — Opsi B (Ecological Layer).
 
 ## Anggota
 
-[Nama anggota kelompok]
+Aldhi Syahrul Syabani
+Relita Anindya Maulida
+Fakhriza Alwi A
