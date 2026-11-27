@@ -26,4 +26,6 @@ Persamaan klorofil-a belum divalidasi dengan data lapangan Segara Anakan, jadi h
 
 ## Anggota
 
-[Nama anggota kelompok]
+Aldhi Syahrul Syabani
+Relita Anindya Maulida
+Fakhriza Alwi A
